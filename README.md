@@ -31,23 +31,23 @@ Legend:
 ******************************************
 
 * C++ (pre-2011): 6
-* C++ (Modern- Post 11') - 7
-* C - 5
-* Java - 6
-* HTML5 / XHTML - 7
-* R - 4
-* PHP - 5
-* NodeJS - 4
-* JavaScript - 4
-* Python - 2
-* G & M (CNC Programming - experience around Fadal M-Codes) - 4
-* Ladder Logic (AB) - 5
-* C# - 3
-* Fortran - 1
-* LISP, LOGO, Pascal, COBOL, Basic (anything old as the apple II) - 1
-* Assembly - 1.5
-* CSS - 4
-* GO - 3.5
-* Ruby , Perl - 1
-* SQL (MySQL, PostgreSQL) - 6
+* C++ (Modern- Post 11'): 7
+* C: 5
+* Java: 6
+* HTML5 / XHTML: 7
+* R: 4
+* PHP: 6
+* NodeJS: 5
+* JavaScript: 4
+* Python: 2
+* G & M (CNC Programming - experience around Fadal M-Codes): 4
+* Ladder Logic (AB): 5
+* C#: 3
+* Fortran: 1
+* LISP, LOGO, Pascal, COBOL, Basic (anything old as the apple II): 1
+* Assembly: 1.5
+* CSS: 4
+* GO: 3.5
+* Ruby , Perl: 1
+* SQL (MySQL, PostgreSQL): 6
 

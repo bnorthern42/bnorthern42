@@ -27,7 +27,7 @@ Legend:
 * I've done programming in this, but not always my go to: 4
 * I can debug it or more or less figure it out if I have to: 3
 * I can read it: 2
-* I have no Idea what this is: 1 
+* I barely know what this is: 1 
 ******************************************
 
 * C++ (pre-2011): 7

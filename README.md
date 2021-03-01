@@ -30,8 +30,8 @@ Legend:
 * I have no Idea what this is: 1 
 ******************************************
 
-* C++ (pre-2011): 6
-* C++ (Modern- Post 11'): 7
+* C++ (pre-2011): 7
+* C++ (Modern- Post 11'): 6
 * C: 5
 * Java: 6
 * HTML5 / XHTML: 7

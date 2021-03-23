@@ -6,7 +6,7 @@
 -->
 
 - 🔭 I’m currently working on [CSV-ME](https://github.com/bnorthern42/CSV-Merge-to-Excel) Merges a CSV into an existing Excel File
-- 🌱 I’m currently learning Java and how to be a better programmer every day. 
+- 🌱 I’m currently learning Linux Containers and how to be a better programmer every day.
 - ✨ I would like to learn: Kotlin, LOGO (if I can get it working with modern hardware + it looks cool)
 - 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)
@@ -30,28 +30,29 @@ Legend:
 * I barely know what this is: 1 
 ******************************************
 
-* C++ (pre-2011): 7
-* C++ (Modern- Post 11'): 6
-* C: 5
-* Java: 6
+* C++ (pre-C++11): 7
 * HTML5 / XHTML: 7
-* R: 4
+* C++ (Modern- Post C++11): 6
+* SQL (MySQL, PostgreSQL): 6
+* Java (Mainly JDK-11): 6
 * PHP: 6
+* C: 5
 * NodeJS: 5
-* JavaScript: 4
-* Python: 2
-* G & M (CNC Programming - experience around Fadal M-Codes): 4
 * Ladder Logic (AB): 5
+* Batch (.bat-Windows): 4.5
+* Shell (.sh-Linux): 4.5
+* Powershel (.ps1 -Windows) 4.5
+* R: 4
+* CSS: 4
+* JavaScript: 4
+* G & M (CNC Programming - experience around Fadal M-Codes): 4
+* GO: 3.5
 * C#: 3
+* Python: 2
+* Assembly: 1.5
 * Fortran: 1
 * LISP, LOGO, Pascal, COBOL, Basic (anything old as the apple II): 1
-* Assembly: 1.5
-* CSS: 4
-* GO: 3.5
 * Ruby , Perl: 1
-* SQL (MySQL, PostgreSQL): 6
-* Batch (.bat-windows): 4.5
-* Shell (.sh-linux): 4.5
 * Probably missing a few more
 
 ### Check it out:

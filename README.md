@@ -39,6 +39,7 @@ Legend:
 * C: 5
 * NodeJS: 5
 * Ladder Logic (AB): 5
+* Pinescript (Trading View): 5
 * Batch (.bat-Windows): 4.5
 * Shell (.sh-Linux): 4.5
 * Powershel (.ps1 -Windows) 4.5

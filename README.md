@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CSV-ME](https://github.com/bnorthern42/CSV-Merge-to-Excel) Merges a CSV into an existing Excel File
 - 🌱 I’m currently learning Linux Containers and how to be a better programmer every day.
-- ✨ I would like to learn: Kotlin, LOGO (if I can get it working with modern hardware + it looks cool)
+- ✨ I would like to learn: Lua
 - 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)
 - 😄 More info: [Personal Site](https://bnorthern.info)

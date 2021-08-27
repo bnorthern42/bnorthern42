@@ -49,8 +49,8 @@ Legend:
 * G & M (CNC Programming - experience around Fadal M-Codes): 4
 * GO: 3.5
 * C#: 3
-* Python: 2
-* Assembly: 1.5
+* Assembly: 2
+* Python: 1
 * Fortran: 1
 * LISP, LOGO, Pascal, COBOL, Basic (anything old as the apple II): 1
 * Ruby , Perl: 1

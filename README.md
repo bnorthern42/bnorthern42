@@ -11,7 +11,7 @@
 - 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)
 - 😄 More info: [Personal Site](https://bnorthern.info)
-- ⚡ Fun fact: Originally Graduated with a Undergraduate Degree in basically Manufacturing Enginneering, now I'm living the dream of a programmer, solving problems. 
+- ⚡ Fun fact: Originally Graduated with a Undergraduate Degree in Manufacturing Enginneering, now I'm living the dream of a programmer, solving problems. 
 
 
 ## Programming Language Skills (in no paticular order)
@@ -30,11 +30,11 @@ Legend:
 * I barely know what this is: 1 
 ******************************************
 
+* Java (Mainly JDK-11 {Spring Boot Microservices}): 7
 * C++ (pre-C++11): 7
 * HTML5 / XHTML: 7
 * C++ (Modern- Post C++11): 6
 * SQL (MySQL, PostgreSQL): 6
-* Java (Mainly JDK-11): 6
 * PHP: 6
 * C: 5
 * NodeJS: 5
@@ -60,6 +60,8 @@ Legend:
 
 Check out my other Repos. If I get enough interest, I will start doing a code with me Saturdays on Twitch, where I work on current Saturday Projects. 
 
+### An Argument for Microservices in Research
 
+Same as functional programming, why re-code the same thing twice. For example, if you make an authentication / registration service, why do it again? If you had all the small problems already solved in services, take those and mix it up to solve the bigger problems. Basically: Faster prototyping to think about the even bigger questions.
 
 

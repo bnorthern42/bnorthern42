@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My new Personal Website](https://github.com/bnorthern42/PersonalWebsiteReact). This is to replace my Wordpress site at [bnorthern.info](https://bnorthern.info/)
 - 🌱 I’m currently learning Full Stack Development with [JHipster](https://www.jhipster.tech/) and how to be a better programmer every day.
-- ✨ I would like to learn: C#
+- ✨ I would like to learn: Angular or Vue, Currently a React with TS fanboy with JHipster 
 - 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)
 - 😄 More info: [Personal Site](https://bnorthern.info)

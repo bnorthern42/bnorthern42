@@ -28,8 +28,9 @@ Legend:
 * Java (Mainly JDK-11 {Spring Boot Microservices}): 9
 * C++ (pre-C++11): 9
 * HTML5 / XHTML: 9
-* SQL (MySQL, PostgreSQL): 8
-* ReactJS 8
+* SQL (PostgreSQL (Pretty much switched all my research to this, besides the occasional MySQL)): 8
+* ReactJS: 8 (use with JHipster but with TypeScript)
+* TypeScript: 8
 * NodeJS: 8
 * CSS: 8
 * JavaScript: 7
@@ -44,9 +45,9 @@ Legend:
 * Python: 4 (not my favorite... more of a braces and semicolon programmer, required for some class I'm in :P )
 * GO: 3
 * C#: 3
-* G & M (CNC Programming - experience around Fadal M-Codes): 3
 * Assembly: 3
 * Pinescript (Trading View): 2
+* G & M (CNC Programming - experience around Fadal M-Codes): 2
 * Fortran: 1
 * LISP, LOGO, Pascal, COBOL, Basic (anything old as the apple II): 1
 * Ruby , Perl: 1

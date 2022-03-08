@@ -5,7 +5,7 @@
 [1.1]: https://github.com/bnorthern42/bnorthern42/blob/main/Resources/Icons/icons8-linkedin-64.png "linkedin"
 -->
 
-- 🔭 I’m currently working on [My new Personal Website](https://github.com/bnorthern42/PersonalWebsiteReact) This is to replace my Wordpress site at [bnorthern.info](https://bnorthern.info/)
+- 🔭 I’m currently working on [My new Personal Website](https://github.com/bnorthern42/PersonalWebsiteReact). This is to replace my Wordpress site at [bnorthern.info](https://bnorthern.info/)
 - 🌱 I’m currently learning Full Stack Development with [JHipster](https://www.jhipster.tech/) and how to be a better programmer every day.
 - ✨ I would like to learn: C#
 - 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 

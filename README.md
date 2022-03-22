@@ -25,7 +25,7 @@ Legend:
 * Note: This list is constantly changing
 ******************************************
 
-* Java (Mainly JDK-11 {Spring Boot Microservices}): 9
+* Java (Mainly JDK-11 {Spring Boot Microservices (MVC) }): 10
 * C++ (pre-C++11): 9
 * HTML5 / XHTML: 9
 * SQL (PostgreSQL (Pretty much switched all my research to this, besides the occasional MySQL)): 8

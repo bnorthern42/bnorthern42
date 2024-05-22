@@ -5,9 +5,9 @@
 [1.1]: https://github.com/bnorthern42/bnorthern42/blob/main/Resources/Icons/icons8-linkedin-64.png "linkedin"
 -->
 
-- 🔭 I’m currently working on [My new Personal Website](https://github.com/bnorthern42/PersonalWebsiteReact). This is to replace my Wordpress site at [bnorthern.info](https://bnorthern.info/)
+- 🔭 I’m currently working on a new [Neovim Config](https://github.com/bnorthern42/nvim-bradn4). 
 - 🌱 I’m currently learning Zig and a Game Developer for [Wurm Online](https://www.wurmonline.com/).
-- ✨ I would like to learn: More Zig
+- ✨ I would like to learn: More Assembly
 - 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)
 - 😄 More info: [Personal Site](https://bnorthern.info)
@@ -28,24 +28,24 @@ Legend:
 * Java (Mainly JDK-11 {Spring Boot Microservices (MVC) }): 10
 * C++ (pre-C++11): 9
 * HTML5 / XHTML: 9
+* C: 9
 * SQL (PostgreSQL (Pretty much switched all my research to this, besides the occasional MySQL)): 8
 * ReactJS: 8 (use with JHipster but with TypeScript)
 * TypeScript: 8
 * NodeJS: 8
 * CSS: 8
+*  Assembly: 8
 * JavaScript: 7
 * C++ (Modern- Post C++11): 5
 * Ladder Logic (AB): 5
 * Batch (.bat-Windows): 4.5
 * Shell (.sh-Linux): 4.5
 * Powershel (.ps1 -Windows): 4
-* C: 4
 * PHP: 4
 * R: 4
 * Python: 4 (not my favorite... more of a braces and semicolon programmer, required for some class I'm in :P )
 * GO: 3
 * C#: 3
-* Assembly: 3
 * Pinescript (Trading View): 2
 * G & M (CNC Programming - experience around Fadal M-Codes): 2
 * Fortran: 1

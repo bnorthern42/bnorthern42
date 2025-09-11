@@ -2,8 +2,8 @@
 
 🔭 Currently working on: [Matrix Multiplication Performance Review](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review)  
 🎮 Game Developer for [Wurm Online](https://www.wurmonline.com/)  
-🌱 Learning: **Odin**, **Zig**, **Assembly**, and applied cryptography  
-💬 Ask me about: Distributed systems, HPC, Spring Boot microservices, or why I love applied cryptography  
+🌱 Learning: **Odin**, **Mastering Slurm**, **MFEM**, and Meshing Technologies in C++
+💬 Ask me about: Distributed systems, HPC, Spring Boot microservices, or why I love Linux
 📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)  
 😄 More info: [Personal Site](https://bnorthern.info)  
 ⚡ Fun fact: I graduated in **Manufacturing Engineering**, but now I live the dream as a programmer solving big problems.  
@@ -70,4 +70,4 @@ If there’s enough interest, I’ll stream **“Code With Me Saturdays”** on 
 
 - [Matrix Multiplication Performance Review](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review) — HPC benchmarking project  
 - [My Neovim Config](https://github.com/bnorthern42/nvim-bradn4) — custom setup for productive dev workflows  
-- [Pinned repos below] — experiments, tools, and side projects in HPC, systems programming, and more  
+

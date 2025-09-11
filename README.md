@@ -1,64 +1,73 @@
-### Hi there 👋
+# 👋 Hi, I’m Brad Northern (@bnorthern42)
 
-<!--
-**bnorthern42/bnorthern42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[1.1]: https://github.com/bnorthern42/bnorthern42/blob/main/Resources/Icons/icons8-linkedin-64.png "linkedin"
--->
+🔭 Currently working on: [Matrix Multiplication Performance Review](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review)  
+🎮 Game Developer for [Wurm Online](https://www.wurmonline.com/)  
+🌱 Learning: **Odin**, **Zig**, **Assembly**, and applied cryptography  
+💬 Ask me about: Distributed systems, HPC, Spring Boot microservices, or why I love applied cryptography  
+📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)  
+😄 More info: [Personal Site](https://bnorthern.info)  
+⚡ Fun fact: I graduated in **Manufacturing Engineering**, but now I live the dream as a programmer solving big problems.  
 
-- 🔭 I’m currently working on a new [Neovim Config](https://github.com/bnorthern42/nvim-bradn4). 
-- 🌱 I’m currently learning Zig and a Game Developer for [Wurm Online](https://www.wurmonline.com/).
-- ✨ I would like to learn: More Assembly
-- 💬 Ask me: Anything, I like being the jack of all trades, however, I love doing applied cryptography type programming. 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)
-- 😄 More info: [Personal Site](https://bnorthern.info)
-- ⚡ Fun fact: Originally Graduated with a Undergraduate Degree in Manufacturing Enginneering, now I'm living the dream of a programmer, solving problems. 
+---
 
+## 🔧 Programming Language Skills
 
-## Programming Language Skills (in no paticular order in each number group)
+Legend: 1–10 scale (10 = sharpest, 1 = mostly forgotten). Constantly evolving.
 
-Legend:
-****************************************
-* Range 1-10
-* 10: Most up to date on
-* 2 It's been a long time
-* 1 I really forgot
-* Note: This list is constantly changing
-******************************************
+**Systems & Core**  
+- Java (JDK-11, Spring Boot Microservices MVC) — 10  
+- C++ (pre-C++11) — 9  
+- C — 9  
+- C++ (Modern, post-C++11) — 5  
+- Assembly — 8  
+- Odin — learning (new focus!)  
+- Zig — learning  
 
-* Java (Mainly JDK-11 {Spring Boot Microservices (MVC) }): 10
-* C++ (pre-C++11): 9
-* HTML5 / XHTML: 9
-* C: 9
-* SQL (PostgreSQL (Pretty much switched all my research to this, besides the occasional MySQL)): 8
-* ReactJS: 8 (use with JHipster but with TypeScript)
-* TypeScript: 8
-* NodeJS: 8
-* CSS: 8
-*  Assembly: 8
-* JavaScript: 7
-* C++ (Modern- Post C++11): 5
-* Ladder Logic (AB): 5
-* Batch (.bat-Windows): 4.5
-* Shell (.sh-Linux): 4.5
-* Powershel (.ps1 -Windows): 4
-* PHP: 4
-* R: 4
-* Python: 4 (not my favorite... more of a braces and semicolon programmer, required for some class I'm in :P )
-* GO: 3
-* C#: 3
-* Pinescript (Trading View): 2
-* G & M (CNC Programming - experience around Fadal M-Codes): 2
-* Fortran: 1
-* LISP, LOGO, Pascal, COBOL, Basic (anything old as the apple II): 1
-* Ruby , Perl: 1
-* Probably missing a few more
+**Web & Full-Stack**  
+- HTML5 / XHTML — 9  
+- CSS — 8  
+- TypeScript — 8  
+- ReactJS (with JHipster + TypeScript) — 8  
+- NodeJS — 8  
+- JavaScript — 7  
+- PHP — 4  
 
-### Check it out:
+**Data & Scripting**  
+- SQL (PostgreSQL primary; occasional MySQL) — 8  
+- Shell (.sh – Linux) — 4.5  
+- Batch (.bat – Windows) — 4.5  
+- PowerShell (.ps1 – Windows) — 4  
+- Python — 4 (brace & semicolon enjoyer 🤓)  
+- R — 4  
+- Go — 3  
+- C# — 3  
 
-Check out my other Repos. If I get enough interest, I will start doing a code with me Saturdays on Twitch, where I work on current Saturday Projects. 
+**Specialties & Other Experience**  
+- Ladder Logic (Allen-Bradley PLC) — 5  
+- Pinescript (TradingView) — 2  
+- G & M Code (CNC, Fadal M-Codes) — 2  
+- Fortran — 1  
+- Ruby, Perl — 1  
+- Historical Languages (LISP, LOGO, Pascal, COBOL, BASIC on Apple II) — 1  
 
-### An Argument for Microservices in Research
+---
 
-Same as functional programming, why re-code the same thing twice. For example, if you make an authentication / registration service, why do it again? If you had all the small problems already solved in services, take those and mix it up to solve the bigger problems. Basically: Faster prototyping to think about the even bigger questions. (Spring Boot has changed the way I think about programming for the web, and I love using it!)
+## 📚 Projects & Ideas
 
+### Matrix Multiplication Performance Review  
+Benchmarking matrix multiplication across languages and methods to understand performance trade-offs. HPC-inspired exploration into algorithm efficiency and scalability.  
 
+### Microservices in Research  
+Just like functional programming avoids repeating logic, I believe **microservices** accelerate research.  
+Why rewrite authentication or registration twice? Build once, reuse everywhere, and focus on the *bigger questions*. Spring Boot completely changed how I think about web development — faster prototyping, modular problem-solving, and scalable design.  
+
+### Code With Me Saturdays  
+If there’s enough interest, I’ll stream **“Code With Me Saturdays”** on Twitch — live coding sessions on my current weekend projects. Stay tuned!  
+
+---
+
+## 📌 What to Check Out
+
+- [Matrix Multiplication Performance Review](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review) — HPC benchmarking project  
+- [My Neovim Config](https://github.com/bnorthern42/nvim-bradn4) — custom setup for productive dev workflows  
+- [Pinned repos below] — experiments, tools, and side projects in HPC, systems programming, and more  

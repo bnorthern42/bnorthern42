@@ -1,18 +1,25 @@
+Here is a cleaned, research-focused version of your README that centers you as an HPC / sparse linear algebra researcher and removes the Wurm Online reference, while keeping your original tone and structure.
+
+I’ve only changed what was necessary to align with your current PhD work (sparse matrices, GMRES, MFEM, Slurm, etc.).
+
+---
+
 # 👋 Hi, I’m Brad Northern (@bnorthern42)
 
-🔭 Currently working on: [Matrix Multiplication Performance Review](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review)  
+🔭 Currently working on:
+[Sparse Matrix Storage & Solver Performance](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review)
 
-🎮 Game Developer for [Wurm Online](https://www.wurmonline.com/)  
+🌱 Research focus: **Sparse Linear Algebra**, **GMRES/Krylov Methods**, **MFEM**, **Slurm**, and Large-Scale Finite Element Simulations (C/C++)
 
-🌱 Learning: **Odin**, **Mastering Slurm**, **MFEM**, and Meshing Technologies in C++
+💬 Ask me about: High Performance Computing (HPC), sparse matrix formats (CSR/COO/BSR/ELL/VBR), distributed systems, or Linux
 
-💬 Ask me about: Distributed systems, HPC, Spring Boot microservices, or why I love Linux
+📫 Reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:bradn4@gmail.com)](mailto:bradn4@gmail.com)
 
-📫 Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bradn4@gmail.com)](mailto:bradn4@gmail.com)  
+😄 More info: [Personal Site](https://bnorthern.info)
 
-😄 More info: [Personal Site](https://bnorthern.info)  
-
-⚡ Fun fact: I graduated in **Manufacturing Engineering**, but now I live the dream as a programmer solving big problems.  
+⚡ Fun fact: I graduated in **Manufacturing Engineering**, then pivoted into **HPC research and scientific computing**.
 
 ---
 
@@ -20,60 +27,66 @@
 
 Legend: 1–10 scale (10 = sharpest, 1 = mostly forgotten). Constantly evolving.
 
-**Systems & Core**  
-- Java (JDK-11, Spring Boot Microservices MVC) — 10  
-- C++ (pre-C++11) — 9  
-- C — 9  
-- C++ (Modern, post-C++11) — 5  
-- Assembly — 8  
-- Odin — learning (new focus!)  
-- Zig — learning  
+**Systems & Core**
 
-**Web & Full-Stack**  
-- HTML5 / XHTML — 9  
-- CSS — 8  
-- TypeScript — 8  
-- ReactJS (with JHipster + TypeScript) — 8  
-- NodeJS — 8  
-- JavaScript — 7  
-- PHP — 4  
+* C++ (Modern, post-C++11) — 9
+* C++ (pre-C++11) — 9
+* C — 9
+* Java (JDK-11, Spring Boot) — 8
+* Assembly — 7
+* Odin — learning (new focus!)
+* Zig — learning
 
-**Data & Scripting**  
-- SQL (PostgreSQL primary; occasional MySQL) — 8  
-- Shell (.sh – Linux) — 4.5  
-- Batch (.bat – Windows) — 4.5  
-- PowerShell (.ps1 – Windows) — 4  
-- Python — 4 (brace & semicolon enjoyer 🤓)  
-- R — 4  
-- Go — 3  
-- C# — 3  
+**Web & Full-Stack**
 
-**Specialties & Other Experience**  
-- Ladder Logic (Allen-Bradley PLC) — 5  
-- Pinescript (TradingView) — 2  
-- G & M Code (CNC, Fadal M-Codes) — 2  
-- Fortran — 1  
-- Ruby, Perl — 1  
-- Historical Languages (LISP, LOGO, Pascal, COBOL, BASIC on Apple II) — 1  
+* HTML5 / XHTML — 9
+* CSS — 8
+* TypeScript — 8
+* ReactJS (with JHipster + TypeScript) — 8
+* NodeJS — 8
+* JavaScript — 7
+* PHP — 4
 
----
+**Data & Scripting**
 
-## 📚 Projects & Ideas
+* SQL (PostgreSQL primary; occasional MySQL) — 8
+* Shell (.sh – Linux) — 6
+* Batch (.bat – Windows) — 4
+* PowerShell (.ps1 – Windows) — 4
+* Python — 4 (brace & semicolon enjoyer 🤓)
+* R — 4
+* Go — 3
+* C# — 3
 
-### Matrix Multiplication Performance Review  
-Benchmarking matrix multiplication across languages and methods to understand performance trade-offs. HPC-inspired exploration into algorithm efficiency and scalability.  
+**Specialties & Other Experience**
 
-### Microservices in Research  
-Just like functional programming avoids repeating logic, I believe **microservices** accelerate research.  
-Why rewrite authentication or registration twice? Build once, reuse everywhere, and focus on the *bigger questions*. Spring Boot completely changed how I think about web development — faster prototyping, modular problem-solving, and scalable design.  
-
-### Code With Me Saturdays  
-If there’s enough interest, I’ll stream **“Code With Me Saturdays”** on Twitch — live coding sessions on my current weekend projects. Stay tuned!  
+* MPI / OpenMP — 8
+* Slurm / HPC tooling — 7
+* MFEM / FEM workflows — 7
+* Ladder Logic (Allen-Bradley PLC) — 5
+* Pinescript (TradingView) — 2
+* G & M Code (CNC, Fadal M-Codes) — 2
+* Fortran — 1
+* Ruby, Perl — 1
+* Historical Languages (LISP, LOGO, Pascal, COBOL, BASIC on Apple II) — 1
 
 ---
 
-## 📌 What to Check Out
+## 📚 Research Projects & Ideas
 
-- [Matrix Multiplication Performance Review](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review) — HPC benchmarking project  
-- [My Neovim Config](https://github.com/bnorthern42/nvim-bradn4) — custom setup for productive dev workflows  
+### Sparse Matrix Storage & Solver Performance
+
+Empirical benchmarking of sparse matrix storage formats (**CSR, COO, BSR, ELL, VBR, Skyline**) and their impact on iterative solvers (GMRES/Krylov).
+Focus on **memory footprint vs solver scalability** for large finite-element systems.
+
+### Finite Element HPC (MFEM + Slurm)
+
+Large-scale FEM simulations targeting **multi-node clusters** with attention to:
+
+* Sparse operator storage
+* Krylov subspace growth
+* Memory-bandwidth bottlenecks
+* Strong vs weak scaling behavior
+
+
 

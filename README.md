@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Brad Northern (@bnorthern42)
 
 🔭 Currently working on:
-[Sparse Matrix Storage & Solver Performance](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review)
+[Kitpp – A C++ Utility Library](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review](https://github.com/bnorthern42/Kitpp))
+
+A modular C++17 utility library for HPC. Features thread-safe logging, scope timers, throughput benchmarking, and resource tracking. Supports Meson & OpenMP. 
+
 
 🌱 Research focus: **Sparse Linear Algebra**, **GMRES/Krylov Methods**, **MFEM**, **Slurm**, and Large-Scale Finite Element Simulations (C/C++)
 

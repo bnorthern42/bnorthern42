@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brad Northern (@bnorthern42)
 
 🔭 Currently working on:
-[Kitpp – A C++ Utility Library](https://github.com/bnorthern42/Matrix_Multiplication_Performance_Review](https://github.com/bnorthern42/Kitpp))
+[Kitpp – A C++ Utility Library](https://github.com/bnorthern42/Kitpp)
 
 A modular C++17 utility library for HPC. Features thread-safe logging, scope timers, throughput benchmarking, and resource tracking. Supports Meson & OpenMP. 
 

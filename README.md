@@ -1,9 +1,3 @@
-Here is a cleaned, research-focused version of your README that centers you as an HPC / sparse linear algebra researcher and removes the Wurm Online reference, while keeping your original tone and structure.
-
-I’ve only changed what was necessary to align with your current PhD work (sparse matrices, GMRES, MFEM, Slurm, etc.).
-
----
-
 # 👋 Hi, I’m Brad Northern (@bnorthern42)
 
 🔭 Currently working on:

@@ -1,88 +1,167 @@
-# 👋 Hi, I’m Brad Northern (@bnorthern42)
+---
 
-🔭 Currently working on:
-[Kitpp – A C++ Utility Library](https://github.com/bnorthern42/Kitpp)
+# 👋 Brad Northern — HPC Engineer | Scientific Computing | C++ Systems
 
-A modular C++17 utility library for HPC. Features thread-safe logging, scope timers, throughput benchmarking, and resource tracking. Supports Meson & OpenMP. 
-
-
-🌱 Research focus: **Sparse Linear Algebra**, **GMRES/Krylov Methods**, **MFEM**, **Slurm**, and Large-Scale Finite Element Simulations (C/C++)
-
-💬 Ask me about: High Performance Computing (HPC), sparse matrix formats (CSR/COO/BSR/ELL/VBR), distributed systems, or Linux
-
-📫 Reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/)
-
-😄 More info: [Personal Site](https://bnorthern.info)
-
-⚡ Fun fact: I graduated in **Manufacturing Engineering**, then pivoted into **HPC research and scientific computing**.
+🚀 **High Performance Computing (HPC) Researcher focused on large-scale FEM, sparse systems, and distributed compute.**
+I build systems that don’t fit in RAM—and then make them faster anyway.
 
 ---
 
-## 🔧 Programming Language Skills
+## 🔬 Current Work
 
-Legend: 1–10 scale (10 = sharpest, 1 = mostly forgotten). Constantly evolving.
+### ⚙️ [Kitpp — C++ HPC Utility Library](https://github.com/bnorthern42/Kitpp)
 
-**Systems & Core**
+A **modular, performance-first C++17 utility library** designed for scientific computing and HPC workflows.
 
-* C++ (Modern, post-C++11) — 9
-* C++ (pre-C++11) — 9
-* C — 9
-* Java (JDK-11, Spring Boot) — 8
-* Assembly — 7
-* Odin — learning (new focus!)
-* Zig — learning
+**Core Capabilities**
 
-**Web & Full-Stack**
+* Thread-safe logging (low overhead, multi-thread aware)
+* Scope-based timing + profiling instrumentation
+* Throughput benchmarking (compute + memory)
+* Resource tracking (memory, execution, scaling)
+* Built for **MPI/OpenMP environments**
+* Clean integration with **Meson build system**
 
-* HTML5 / XHTML — 9
-* CSS — 8
-* TypeScript — 8
-* ReactJS (with JHipster + TypeScript) — 8
-* NodeJS — 8
-* JavaScript — 7
-* PHP — 4
+> Designed to support **real-world HPC workloads**, not toy examples.
 
-**Data & Scripting**
+---
 
-* SQL (PostgreSQL primary; occasional MySQL) — 8
-* Shell (.sh – Linux) — 6
-* Batch (.bat – Windows) — 4
-* PowerShell (.ps1 – Windows) — 4
-* Python — 4 (brace & semicolon enjoyer 🤓)
+## 🧠 Research & Technical Focus
+
+* Sparse Linear Algebra (CSR / COO / BSR / ELL / VBR)
+* Krylov Subspace Methods (GMRES, iterative solvers)
+* Finite Element Methods (MFEM)
+* Adaptive Mesh Refinement (AMR)
+* Distributed Systems & Multi-node Scaling
+* Slurm-based HPC environments
+* Memory-bound performance optimization
+
+💡 Current emphasis:
+**Bridging numerical methods with real-world scalability constraints (memory, bandwidth, communication overhead).**
+
+---
+
+## 💬 Ask Me About
+
+* Scaling FEM simulations to millions–billions of DOFs
+* Sparse matrix performance tradeoffs
+* MPI + OpenMP hybrid parallelism
+* HPC profiling, bottlenecks, and memory diagnostics
+* Linux-based research environments
+
+---
+
+## 🌐 Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/brad-northern-83666147/)
+* 🌍 [Personal Site](https://bnorthern.info)
+
+---
+
+## ⚡ Background
+
+Started in **Manufacturing Engineering** → pivoted into
+**High Performance Computing, numerical methods, and large-scale simulation.**
+
+---
+
+# 🧰 Technical Stack
+
+## 🧩 Systems & Core (Primary Strength)
+
+* **C++ (Modern + Legacy)** — 9
+* **C** — 9
+* **Java (Spring Boot)** — 8
+* **Assembly** — 5
+
+> Strong focus on **performance-critical, low-level systems**
+
+---
+
+## ⚙️ HPC & Scientific Computing
+
+* **MPI / OpenMP** — 8
+* **MFEM / FEM pipelines** — 7
+* **Slurm / Cluster tooling** — 7
+
+---
+
+## 🌐 Full-Stack & Tooling
+
+* TypeScript / React / Node — 8
+* HTML / CSS — 8–9
+* SQL (Postgres) — 8
+
+---
+
+## 🧪 Scripting & Data
+
+* Shell (Linux) — 6
+* Python — 4 *(used pragmatically, not religiously)*
 * R — 4
-* Go — 3
-* C# — 3
-
-**Specialties & Other Experience**
-
-* MPI / OpenMP — 8
-* Slurm / HPC tooling — 7
-* MFEM / FEM workflows — 7
-* Ladder Logic (Allen-Bradley PLC) — 5
-* Pinescript (TradingView) — 2
-* G & M Code (CNC, Fadal M-Codes) — 2
-* Fortran — 1
-* Ruby, Perl — 1
-* Historical Languages (LISP, LOGO, Pascal, COBOL, BASIC on Apple II) — 1
 
 ---
 
-## 📚 Research Projects & Ideas
+## 🧠 Experimental / Exploring
 
-### Sparse Matrix Storage & Solver Performance
+* Odin
+* Zig
 
-Empirical benchmarking of sparse matrix storage formats (**CSR, COO, BSR, ELL, VBR, Skyline**) and their impact on iterative solvers (GMRES/Krylov).
-Focus on **memory footprint vs solver scalability** for large finite-element systems.
+---
 
-### Finite Element HPC (MFEM + Slurm)
+## 🏭 Industrial / Edge Experience
 
-Large-scale FEM simulations targeting **multi-node clusters** with attention to:
+* Ladder Logic (Allen-Bradley PLCs)
+* CNC Programming (G/M Code)
 
-* Sparse operator storage
-* Krylov subspace growth
+---
+
+# 📊 Research Directions
+
+## 🔹 Sparse Matrix + Solver Performance
+
+Benchmarking how storage formats (**CSR, COO, BSR, ELL, VBR, Skyline**) affect:
+
+* Iterative solver convergence (GMRES/Krylov)
+* Memory footprint
+* Cache efficiency
+* Parallel scalability
+
+**Goal:** Identify **format + solver pairings that scale in real HPC environments**
+
+---
+
+## 🔹 Large-Scale FEM (MFEM + Cluster)
+
+Working on simulations involving:
+
+* Multi-million to billion DOF systems
+* Distributed mesh partitioning
 * Memory-bandwidth bottlenecks
-* Strong vs weak scaling behavior
+* Strong vs weak scaling analysis
 
+**Key problem:**
+Most FEM research ignores **real hardware limits**—this work doesn’t.
 
+---
+
+## 🔹 Adaptive Mesh Refinement (AMR)
+
+Investigating refinement strategies for:
+
+* Electromagnetic field behavior
+* Error reduction vs element explosion
+* Spatial resolution vs memory constraints
+
+---
+
+# 🧠 Philosophy
+
+> If your program fits in RAM, you’re playing a different game.
+
+I focus on:
+
+* Problems where **memory is the bottleneck**
+* Systems where **performance = survival**
+* Code that runs on **clusters, not laptops**
 

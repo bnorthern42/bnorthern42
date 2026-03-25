@@ -113,47 +113,11 @@ Started in **Manufacturing Engineering** → pivoted into
 
 * Ladder Logic (Allen-Bradley PLCs)
 * CNC Programming (G/M Code)
+* NodeJS, Cypress SDET
+* C++ on Large Clusters
 
 ---
 
-# 📊 Research Directions
-
-## 🔹 Sparse Matrix + Solver Performance
-
-Benchmarking how storage formats (**CSR, COO, BSR, ELL, VBR, Skyline**) affect:
-
-* Iterative solver convergence (GMRES/Krylov)
-* Memory footprint
-* Cache efficiency
-* Parallel scalability
-
-**Goal:** Identify **format + solver pairings that scale in real HPC environments**
-
----
-
-## 🔹 Large-Scale FEM (MFEM + Cluster)
-
-Working on simulations involving:
-
-* Multi-million to billion DOF systems
-* Distributed mesh partitioning
-* Memory-bandwidth bottlenecks
-* Strong vs weak scaling analysis
-
-**Key problem:**
-Most FEM research ignores **real hardware limits**—this work doesn’t.
-
----
-
-## 🔹 Adaptive Mesh Refinement (AMR)
-
-Investigating refinement strategies for:
-
-* Electromagnetic field behavior
-* Error reduction vs element explosion
-* Spatial resolution vs memory constraints
-
----
 
 # 🧠 Philosophy
 

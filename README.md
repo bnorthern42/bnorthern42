@@ -12,7 +12,6 @@ A modular C++17 utility library for HPC. Features thread-safe logging, scope tim
 
 📫 Reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/brad-northern-83666147/)](https://www.linkedin.com/in/brad-northern-83666147/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:bradn4@gmail.com)](mailto:bradn4@gmail.com)
 
 😄 More info: [Personal Site](https://bnorthern.info)
 
